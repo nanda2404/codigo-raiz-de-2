@@ -1,6 +1,4 @@
-
 // CÓDIGO PARA O CALCULO DA RAIZ QUADRADA DE 2 PELO METODO DE NEWTON
-
 #include <stdio.h>
 #include <math.h>
 int main() {
