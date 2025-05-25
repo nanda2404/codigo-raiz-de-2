@@ -1,2 +1,1 @@
-# codigo-raiz-de-2
-criação de um codigo para achar a raiz aproximada de 2 
+# Codigo-raiz-de-2 por NEWTON- RAPHSON
