@@ -9,7 +9,7 @@ int main() {
     for (int i = 0; i < MAX_IT; i++) {
         x = (x + 2.0 / x) / 2.0;   
         printf("%d\t\t%.10f\n", i + 1, x);  
-        if (fabs(x * x - 2) < EPS)  // se x² está bem perto de 2, podemos parar
+        if (fabs(x * x - 2) < EPS) 
             break;
     }
     return 0;
