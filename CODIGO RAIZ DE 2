@@ -5,7 +5,7 @@ int main() {
     double x = 1.0;       
     const int MAX_IT = 20;
     const double EPS = 1e-6;
-    printf("Iteração\tAproximação\n");
+    printf("Interação\tAproximação\n");
     for (int i = 0; i < MAX_IT; i++) {
         x = (x + 2.0 / x) / 2.0;   
         printf("%d\t\t%.10f\n", i + 1, x);  
